@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT, Cyber Security, AI
 - 🌱 I’m currently learning Web Development starting with Frontend Development
 - 💞️ I’m looking to collaborate on sites with standing ideas that will greatly impact the internet and be useful for peolpe.
-- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/omar-abdelrahman-10538a328/
+- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/omar-mohamed-abdelrahman/
 - ⚡ Fun fact: I am single
 
 <!---
